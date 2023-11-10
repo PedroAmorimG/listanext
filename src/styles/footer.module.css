@@ -1,0 +1,12 @@
+.footer {
+    background-color: #EBE3D5;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.p {
+    color: #776B5D;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}

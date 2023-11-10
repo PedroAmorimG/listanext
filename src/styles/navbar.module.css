@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #EBE3D5;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.link {
+    color: #776B5D;
+    font-size: 2rem;
+    font-weight: 700;
+    text-decoration: none;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.logo {
+    color: #776B5D;
+    font-size: 2rem;
+    font-weight: 700;
+    text-decoration: none;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,84 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    background-color: #776B5D;
+}
+
+.divcar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.carrinho {
+    margin-right: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #F3EEEA;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.card {
+    background-color: #EBE3D5;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2rem;
+    height: 9rem;
+    flex-wrap: wrap;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.nome {
+    color: #776B5D;
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+    margin-left: 5%;
+    width: 30%;
+}
+
+.add {
+    width: 2rem;
+    height: 2rem;
+    margin-top: 1.5rem;
+    margin-left: 15%;
+    border-radius: 0.2rem;
+    background-color: #776B5D;
+    color: #F3EEEA;
+    transition: ease 0.5s;
+    border: none;
+}
+
+.add:hover {
+    background-color: #F3EEEA;
+    color: #776B5D;
+}
+
+.preco {
+    color: #776B5D;
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+    margin-left: 20%;
+    width: 10%;
+}
+
+.descricao {
+    color: #776B5D;
+    font-size: 1.25rem;
+    margin-left: 7.5%;
+    width: 100%;
+}
+
+.ingredientes {
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+    margin-top: 1rem;
+    margin-left: 4.5rem;
+}
+
+.ingrediente {
+    color: #776B5D;
+    font-size: 1.25rem
+}
